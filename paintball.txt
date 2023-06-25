@@ -1,0 +1,8 @@
+"paintball"
+{
+	"base"		"base"
+	"title"		"paintball"
+	"maps" 		""
+	"menusystem" 	"1"
+	 			
+}
