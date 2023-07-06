@@ -2,6 +2,7 @@
 AddCSLuaFile("cl_init.lua")
 AddCSLuaFile("shared.lua")
 AddCSLuaFile("hud.lua")
+AddCSLuaFile("scoreboard.lua")
 
 
 --including files
